@@ -1,0 +1,25 @@
+.signup-mainDiv{
+  background-color: antiquewhite;
+  width: 50%;
+display: flex;
+justify-content: center;
+}
+.signup-form{
+display: inline-block;
+}
+.signup-div{
+margin: 30px;
+
+}
+.signup-label{
+  display: inline-block;
+  width: 130px;
+}
+.signup-input{
+height: 30px;
+width: 190px;
+}
+.btn{
+  display: inline-block;
+  text-align: center;
+}
